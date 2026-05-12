@@ -44,6 +44,7 @@ requirements:
     - pawflim
     - liffile
     - fbdfile
+    - czifile >=2026.4.30
 
 test:
   imports:
