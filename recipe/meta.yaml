@@ -3,7 +3,7 @@
 
 package:
   name: {{ name|lower }}
-  version: {{ version }}
+  version: "{{ version }}"
 
 source:
   url: https://files.pythonhosted.org/packages/cf/dc/d551932767afb19b32fce553b22a406b4aa749d29976dff1ccaa5f1de880/phasorpy-{{ version }}.tar.gz
