@@ -7,7 +7,7 @@ Home: https://www.phasorpy.org/
 
 Package license: MIT
 
-Summary: Analysis of fluorescence lifetime and hyperspectral images using the phasor approach
+Summary: Analysis of luminescence lifetime and hyperspectral images using the phasor approach
 
 Development: https://github.com/phasorpy/phasorpy
 
@@ -224,7 +224,4 @@ Feedstock Maintainers
 
 * [@bruno-pannunzio](https://github.com/bruno-pannunzio/)
 * [@cgohlke](https://github.com/cgohlke/)
-
-
-<!-- dummy commit to enable rerendering -->
 
