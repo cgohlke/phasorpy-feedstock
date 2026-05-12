@@ -26,12 +26,14 @@ requirements:
     - libgomp       # [linux]
   host:
     - python
+    - vcomp14  # [win]
     - setuptools >=68.0.0
     - numpy
     - cython >=3.2.0
     - pip
   run:
     - python
+    - vcomp14  # [win]
     - matplotlib-base >=3.9.0
     - scipy >=1.13.0
     - click
